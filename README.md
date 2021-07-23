@@ -5,7 +5,7 @@
 ### Hello there stranger.Yes, you.
 
 My name is Simon and I come from Macedonia. I'm currently enrolled in Microverse,learning and extending 
-my web-development knowledge while pair-programming with coding partners around the globe.
+my web-development knowledge and skills while pair-programming with coding partners around the globe.
 
 #### Programography: 
  - HTML
