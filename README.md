@@ -1,7 +1,7 @@
 
 <!-- ![Simon Delivery](https://user-images.githubusercontent.com/84941433/126847565-dbaccb49-36b8-4b78-84f6-549cb1d151ec.png) -->
 
-![Simon Delivery](./Screen.png);
+![Simon Delivery](./Screen.png)
 
 ### Hello there stranger.Yes, you.
 
