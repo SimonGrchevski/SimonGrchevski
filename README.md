@@ -10,7 +10,8 @@ my web-development knowledge and skills while pair-programming with coding partn
  - CSS
  - SCSS
  - Bootstrap
- - currently learning: JavaScript
+ - JavaScript
+ - currently learning: React
 
 #### You can reach me:
 - [Github](https://github.com/SimonGrchevski)
