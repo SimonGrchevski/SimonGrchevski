@@ -17,7 +17,7 @@ my web-development knowledge and skills while pair-programming with coding partn
 - [Github](https://github.com/SimonGrchevski)
 - [LinkedIn](https://www.linkedin.com/in/simon-grchevski-682935209/)
 - [Twitter](https://twitter.com/grchevski)
-- email: simongrcevski@gmail.com
+- simongrcevski@gmail.com
 
 <!--
 **SimonGrchevski/SimonGrchevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
