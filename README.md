@@ -5,7 +5,7 @@
 My name is Simon and I come from Macedonia. I'm currently enrolled in Microverse,learning and extending 
 my web-development knowledge and skills while pair-programming with coding partners around the globe.
 
-#### Programography: 
+#### Technologies: 
  - HTML
  - CSS
  - SCSS
