@@ -11,8 +11,7 @@ my web-development knowledge and skills while pair-programming with coding partn
  - SCSS
  - Bootstrap
  - JavaScript
- - React
- - Redux
+ - React and Redux
 
 #### You can reach me:
 - [Github](https://github.com/SimonGrchevski)
