@@ -11,8 +11,8 @@ my web-development knowledge and skills while pair-programming with coding partn
  - SCSS
  - Bootstrap
  - JavaScript
- - React and Redux
- - Currently learning Ruby and Rails
+ - React & Redux
+ - Currently learning Ruby & Rails
 
 #### You can reach me:
 - [Github](https://github.com/SimonGrchevski)
