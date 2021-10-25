@@ -11,7 +11,7 @@ my web-development knowledge and skills while pair-programming with coding partn
  - SCSS
  - Bootstrap
  - JavaScript
- - React & Redux
+ - React And Redux
  - Currently learning Ruby & Rails
 
 #### You can reach me:
