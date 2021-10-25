@@ -12,7 +12,7 @@ my web-development knowledge and skills while pair-programming with coding partn
  - Bootstrap
  - JavaScript
  - React And Redux
- - Currently learning Ruby & Rails
+ - Currently learning Ruby And Rails
 
 #### You can reach me:
 - [Github](https://github.com/SimonGrchevski)
