@@ -11,7 +11,8 @@ my web-development knowledge and skills while pair-programming with coding partn
  - SCSS
  - Bootstrap
  - JavaScript
- - React && Redux
+ - React
+ - Redux
  - Ruby
  - Ruby on Rails
 
