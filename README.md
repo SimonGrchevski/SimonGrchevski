@@ -8,10 +8,10 @@ my web-development knowledge and skills while pair-programming with coding partn
 ####  Languages && Technologies
  - HTML 
  - CSS 
- - SCSS
- - Bootstrap
- - JavaScript
- - React
+ - SCSS 
+ - Bootstrap 
+ - JavaScript 
+ - React 
  - Redux
  - Ruby
  - Ruby on Rails
