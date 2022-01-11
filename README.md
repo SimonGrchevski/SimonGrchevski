@@ -13,8 +13,8 @@ my web-development knowledge and skills while pair-programming with coding partn
  - JavaScript 
  - React 
  - Redux 
- - Ruby
- - Ruby on Rails
+ - Ruby 
+ - Ruby on Rails 
 
 #### You can reach me:
 - [Github](https://github.com/SimonGrchevski)
