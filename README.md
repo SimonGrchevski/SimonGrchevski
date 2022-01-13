@@ -12,9 +12,9 @@ my web-development knowledge and skills while pair-programming with coding partn
  - Bootstrap 
  - JavaScript  
  - React  
- - Redux
- - Ruby
- - Ruby on Rails
+ - Redux 
+ - Ruby 
+ - Ruby on Rails 
 
 #### You can reach me:
 - [Github](https://github.com/SimonGrchevski)
