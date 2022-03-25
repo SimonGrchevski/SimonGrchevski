@@ -1,5 +1,3 @@
-![Simon Delivery](./Screen.png)
-
 ### Hello there stranger.Yes, you.
 
 My name is Simon and I come from Macedonia. I'm currently enrolled in Microverse,learning and extending 
