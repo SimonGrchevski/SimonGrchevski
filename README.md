@@ -14,7 +14,12 @@ my web-development knowledge and skills while pair-programming with coding partn
  - React 
  - Redux 
  - Ruby 
- - Ruby on Rails 
+ - Ruby on Rails
+ - Angular
+ 
+ 
+ 
+ Currently working with AWS
 
 #### You can reach me:
 - [Github](https://github.com/SimonGrchevski)
