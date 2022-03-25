@@ -12,10 +12,10 @@ my web-development knowledge and skills while pair-programming with coding partn
  - Bootstrap 
  - JavaScript 
  - React 
- - Redux 
+ - Redux
+ - Angular
  - Ruby 
  - Ruby on Rails
- - Angular
  
  
  
