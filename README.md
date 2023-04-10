@@ -1,23 +1,21 @@
 ### Hello there stranger.Yes, you.
 
-My name is Simon and I come from Macedonia. I'm currently enrolled in Microverse,learning and extending 
-my web-development knowledge and skills while pair-programming with coding partners around the globe.
+ I'm Simon, a Zealous Front-End Developer with 2 years of experience. I specialize in JavaScript and have worked extensively with React and Node.js. I love programming challenging projects and creating user-friendly interfaces. Outside of programming, I'm an avid music lover and enjoy headbanging to heavy metal. If you're looking for a skilled and enthusiastic developer, feel free to reach out to me!"
 
 ####  Languages && Technologies
  - HTML 
  - CSS 
  - SCSS 
  - Bootstrap 
- - JavaScript 
+ - JavaScript
+ - Electron
  - React 
  - Redux
  - Angular
  - Ruby 
  - Ruby on Rails
+ - C++ (or ++C)
  
- 
- 
- Currently working with AWS
 
 #### You can reach me:
 - [Github](https://github.com/SimonGrchevski)
