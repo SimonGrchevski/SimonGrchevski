@@ -14,7 +14,7 @@
  - Angular
  - Ruby 
  - Ruby on Rails
- - C++ (or ++C)
+ - C++
  
 
 #### You can reach me:
